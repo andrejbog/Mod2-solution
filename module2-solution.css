@@ -28,7 +28,7 @@ section {
   margin-right: 1em;
   background-color: #add8e6;
   border: 1px solid black;
-  height: 120px;  
+  height: 170px;  
 
  
 }
@@ -41,7 +41,7 @@ margin-bottom: 0.5em;
 border-bottom: 1px solid black;
     border-left: 1px solid black;
     
-padding: 2px 2px 2px 2px;
+padding: 0.5em;
 font-size: 125%;
 }
 
@@ -97,7 +97,7 @@ font-size: 100%;
   }
   .col-lg-4 {
     width: 30%;
-    height: 170px;
+    height: 190px;
   }
   .col-lg-5 {
     width: 41.66%;
@@ -154,7 +154,7 @@ font-size: 100%;
   }
   .col-md-6 {
     width: 45%;
-    height: 150px;
+    height: 170px;
   }
   .col-md-7 {
     width: 58.33%;
@@ -173,8 +173,8 @@ font-size: 100%;
   }
   .col-md-12 {
     width: 93.6%;
-      height: 150px;
+      height: 140px;
     margin-right: 1em;
-    padding: .5em;
+    padding: 0em 0em .5em .5em;
   }
 }
