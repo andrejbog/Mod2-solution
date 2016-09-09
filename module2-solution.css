@@ -38,7 +38,9 @@ float: right;
 margin-top: 0em;
 margin-right: 0em;
 margin-bottom: 0.5em;
-border: 1px solid black;
+border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    
 padding: 2px 2px 2px 2px;
 font-size: 125%;
 }
